@@ -1,1 +1,1 @@
-# Hate_Speech_Detection
+# Linguistically_Informed_Cross_Lingual_Meta_Learning_for_Weakly_Supervised_Hate_Speech_Detection_in_Tai_Kadai_Languages
